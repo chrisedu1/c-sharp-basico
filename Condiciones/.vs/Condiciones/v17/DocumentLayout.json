@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CHRIS\\Desktop\\UMG\\Tercer semestre\\Programaci\u00F3n 1\\c-sharp basico\\Condiciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129E9C24-B7FB-479A-88C6-4FC94DC70FA0}|Condiciones\\Condiciones.csproj|c:\\users\\chris\\desktop\\umg\\tercer semestre\\programaci\u00F3n 1\\c-sharp basico\\condiciones\\condiciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129E9C24-B7FB-479A-88C6-4FC94DC70FA0}|Condiciones\\Condiciones.csproj|solutionrelative:condiciones\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CHRIS\\Desktop\\UMG\\Tercer semestre\\Programaci\u00F3n 1\\c-sharp basico\\Condiciones\\Condiciones\\Program.cs",
+              "RelativeDocumentMoniker": "Condiciones\\Program.cs",
+              "ToolTip": "C:\\Users\\CHRIS\\Desktop\\UMG\\Tercer semestre\\Programaci\u00F3n 1\\c-sharp basico\\Condiciones\\Condiciones\\Program.cs",
+              "RelativeToolTip": "Condiciones\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T05:28:35.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
